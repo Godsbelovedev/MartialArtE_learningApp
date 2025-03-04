@@ -8,4 +8,5 @@ Console.WriteLine(SumThreeIntegers(num1,num2,num3));
 static int SumThreeIntegers(int firstNumber, int secondNumber, int thirdNumber)
 {
     return firstNumber+secondNumber+thirdNumber;
+    // it returns the sum of the three integers
 }
